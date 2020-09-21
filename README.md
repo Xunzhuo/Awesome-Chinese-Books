@@ -122,3 +122,5 @@
 ## 获取方式
 
 > 由于GitHub传输文件大小限制，文件上传至了百度云，需要的请自取。
+
+### 链接: https://pan.baidu.com/s/16WYaPztED-j03OYZNZa9fg  密码: p40n
